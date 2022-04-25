@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="老师" max_length="40" name="x_793245_lc_app_teacher" type="collection">
+        <element label="姓名" max_length="30" name="name" type="string"/>
+    </element>
+</database>
