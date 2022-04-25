@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="学生" max_length="40" name="x_793245_lc_app_u_student" sizeclass="0" type="collection"/>
+</database>
