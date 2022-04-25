@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="老师">edd2e8c62f0f0510119ea55df699b6a0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>老师s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_793245_lc_app_teacher</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_793245_lc_app._user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 10:58:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9700e1822f034510119ea55df699b695</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>老师s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LC_APP" source="x_793245_lc_app">0b36d1be2fb20110119ea55df699b68d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</sys_scope>
+        <sys_update_name>sys_app_module_9700e1822f034510119ea55df699b695</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 10:58:57</sys_updated_on>
+        <timeline_page/>
+        <title>老师s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</application>
+        <file_path/>
+        <instance_id>6b9c4feadb4db3c452cec59705961938</instance_id>
+        <instance_name>dev84258</instance_name>
+        <name>sys_app_module_9700e1822f034510119ea55df699b695</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="老师">edd2e8c62f0f0510119ea55df699b6a0</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>老师s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_793245_lc_app_teacher</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_793245_lc_app._user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-25 10:58:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9700e1822f034510119ea55df699b695</sys_id><sys_mod_count>0</sys_mod_count><sys_name>老师s</sys_name><sys_overrides/><sys_package display_value="LC_APP" source="x_793245_lc_app">0b36d1be2fb20110119ea55df699b68d</sys_package><sys_policy/><sys_scope display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</sys_scope><sys_update_name>sys_app_module_9700e1822f034510119ea55df699b695</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-25 10:58:57</sys_updated_on><timeline_page/><title>老师s</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-195509322</payload_hash>
+        <record_name>老师s</record_name>
+        <reverted_from/>
+        <source>21ef0d822fcf0510119ea55df699b6ef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 10:58:57</sys_created_on>
+        <sys_id>1700e1822f034510119ea55df699b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180605fddcc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 10:58:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5f00e182be034510d8b9e76a6335e297</update_guid>
+        <update_guid_history>5f00e182be034510d8b9e76a6335e297:-195509322</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="老师s">d421e5c22f034510119ea55df699b66d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 11:03:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1b86ec27fa864c75bc59f90c00f76f51</sys_id>
+        <sys_metadata>9700e1822f034510119ea55df699b695</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>老师s</sys_name>
+        <sys_package display_value="LC_APP" source="x_793245_lc_app">0b36d1be2fb20110119ea55df699b68d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</sys_scope>
+        <sys_scope_delete display_value="">04903bccf8c6440680ab058e00f2b924</sys_scope_delete>
+        <sys_update_name>sys_app_module_9700e1822f034510119ea55df699b695</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9700e1822f034510119ea55df699b695">1700e1822f034510119ea55df699b698</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 11:03:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
