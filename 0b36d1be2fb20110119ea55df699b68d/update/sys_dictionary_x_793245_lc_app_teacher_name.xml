@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>姓名</column_label>
+        <column_label>name</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -34,7 +34,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>30</max_length>
+        <max_length>20</max_length>
         <name>x_793245_lc_app_teacher</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-25 06:31:28</sys_created_on>
-        <sys_id>7372e0c62f0f0510119ea55df699b657</sys_id>
+        <sys_created_on>2022-04-25 10:58:56</sys_created_on>
+        <sys_id>59ef5d022f034510119ea55df699b652</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>姓名</sys_name>
+        <sys_name>name</sys_name>
         <sys_package display_value="LC_APP" source="x_793245_lc_app">0b36d1be2fb20110119ea55df699b68d</sys_package>
         <sys_policy/>
         <sys_scope display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</sys_scope>
         <sys_update_name>sys_dictionary_x_793245_lc_app_teacher_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-25 06:31:28</sys_updated_on>
+        <sys_updated_on>2022-04-25 10:58:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
