@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 10:58:57</sys_created_on>
+        <sys_id>e700e1822f034510119ea55df699b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793245_lc_app_teacher.x_793245_lc_app._user</sys_name>
+        <sys_package display_value="LC_APP" source="x_793245_lc_app">0b36d1be2fb20110119ea55df699b68d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</sys_scope>
+        <sys_security_acl display_value="x_793245_lc_app_teacher">e300e1822f034510119ea55df699b6c1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e700e1822f034510119ea55df699b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 10:58:57</sys_updated_on>
+        <sys_user_role display_value="x_793245_lc_app._user" name="x_793245_lc_app._user">f2f659be2fb20110119ea55df699b68a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</application>
+        <file_path/>
+        <instance_id>6b9c4feadb4db3c452cec59705961938</instance_id>
+        <instance_name>dev84258</instance_name>
+        <name>sys_security_acl_role_e700e1822f034510119ea55df699b6c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 10:58:57</sys_created_on>
+        <sys_id>e700e1822f034510119ea55df699b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793245_lc_app_teacher.x_793245_lc_app._user</sys_name>
+        <sys_package display_value="LC_APP" source="x_793245_lc_app">0b36d1be2fb20110119ea55df699b68d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</sys_scope>
+        <sys_security_acl display_value="x_793245_lc_app_teacher">e300e1822f034510119ea55df699b6c1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e700e1822f034510119ea55df699b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 10:58:57</sys_updated_on>
+        <sys_user_role display_value="x_793245_lc_app._user" name="x_793245_lc_app._user">f2f659be2fb20110119ea55df699b68a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>830347653</payload_hash>
+        <record_name>x_793245_lc_app_teacher.x_793245_lc_app._user</record_name>
+        <reverted_from/>
+        <source>2c5afea22f070110119ea55df699b6cd</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-27 06:50:34</sys_created_on>
+        <sys_id>686af2e22f070110119ea55df699b69e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18069c92f6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-27 06:50:34</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a46af2e2ed07011043f003f3e071f89e</update_guid>
+        <update_guid_history>a46af2e2ed07011043f003f3e071f89e:0,8021e5c298034510b4d83ad2268b2b2a:-1057276950,ab00e1825a034510c677e8f150b3ffc6:-299562621</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_793245_lc_app_teacher.x_793245_lc_app._user">374bb6262f070110119ea55df699b6fe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-27 06:54:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>33f593a8f8eb48288b7d8c4ef3e08759</sys_id>
+        <sys_metadata>e700e1822f034510119ea55df699b6c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793245_lc_app_teacher.x_793245_lc_app._user</sys_name>
+        <sys_package display_value="LC_APP" source="x_793245_lc_app">0b36d1be2fb20110119ea55df699b68d</sys_package>
+        <sys_parent display_value="">e300e1822f034510119ea55df699b6c1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="LC_APP">0b36d1be2fb20110119ea55df699b68d</sys_scope>
+        <sys_scope_delete display_value="">04903bccf8c6440680ab058e00f2b924</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e700e1822f034510119ea55df699b6c4</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e700e1822f034510119ea55df699b6c4">686af2e22f070110119ea55df699b69e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-27 06:54:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
