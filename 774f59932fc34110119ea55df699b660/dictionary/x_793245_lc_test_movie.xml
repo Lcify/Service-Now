@@ -6,5 +6,6 @@
                 <element inactive_on_update="false" label="肖申克的救赎" value="肖申克的救赎"/>
             </choice>
         </element>
+        <element label="person" max_length="30" name="person" type="string"/>
     </element>
 </database>
