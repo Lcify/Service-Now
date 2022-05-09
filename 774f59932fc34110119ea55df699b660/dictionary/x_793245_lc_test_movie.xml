@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="电影" max_length="40" name="x_793245_lc_test_movie" sizeclass="0" type="collection">
-        <element label="name" max_length="30" name="name" type="string"/>
+    <element label="电影" max_length="40" name="x_793245_lc_test_movie" sizeclass="2" type="collection">
+        <element choice="3" label="Name" max_length="30" name="name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="星际穿越" value="星际穿越"/>
+                <element inactive_on_update="false" label="肖申克的救赎" value="肖申克的救赎"/>
+            </choice>
+        </element>
     </element>
 </database>
